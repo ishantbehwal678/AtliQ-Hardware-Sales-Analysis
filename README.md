@@ -3,6 +3,7 @@
 End-to-end data analytics project analyzing multi-year sales data for AtliQ Hardware using SQL and Power BI. Includes data cleaning, revenue validation, business-driven SQL analysis, interactive dashboard development, and insight presentation for executive decision-making.
 
 =================================
+
 1.Project Overview
 
 -This project analyzes sales performance data for AtliQ Hardware, a computer hardware supplier operating across multiple regions in India.
