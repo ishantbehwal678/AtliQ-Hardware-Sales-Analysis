@@ -1,4 +1,4 @@
-# AtliQ-Hardware-Sales-Analysis
+# AtliQ-Hardware-Sales-Analysis | SQL, Power-BI
 
 End-to-end data analytics project analyzing multi-year sales data for AtliQ Hardware using SQL and Power BI. Includes data cleaning, revenue validation, business-driven SQL analysis, interactive dashboard development, and insight presentation for executive decision-making.
 
