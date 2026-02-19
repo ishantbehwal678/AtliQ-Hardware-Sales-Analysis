@@ -7,15 +7,21 @@ End-to-end data analytics project analyzing multi-year sales data for AtliQ Hard
 1.Project Overview
 
 -This project analyzes sales performance data for AtliQ Hardware, a computer hardware supplier operating across multiple regions in India.
+
 -The objective is to transform fragmented transactional data into structured, reliable insights that support data-driven decision-making through SQL analysis and interactive Power BI dashboards.
 
 2.Dataset
 
 Multi-table relational sales dataset including:
+
 -Transactions (sales amount, quantity, currency, order date, market code)
+
 -Customers
+
 -Products
+
 -Markets
+
 -Date table (year, month attributes)
 
 Data spans across 2019 and 2020, enabling year-over-year revenue comparison.
